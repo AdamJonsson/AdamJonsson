@@ -1,4 +1,4 @@
-### Hello <del>World</del> You!
+### Hello <del>World</del> there!
 Want an introduction of me? Be sure to checkout [adamjonsson.dev](https://adamjonsson.dev/)! 😄
 
 <a href="https://adamjonsson.dev/">
