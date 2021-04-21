@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello <del>World</del> You!
+Want an introduction of me? Be sure to checkout [adamjonsson.dev](https://adamjonsson.dev/)! 😄
+
+<a href="https://adamjonsson.dev/">
+  <img src="https://user-images.githubusercontent.com/13873828/115602367-278eaa80-a2df-11eb-9932-d1c7b1b6cf00.png"/>
+</a>
+
 
 <!--
 **AdamJonsson/AdamJonsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
